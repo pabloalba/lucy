@@ -17,7 +17,7 @@ It is made with DragonGames, my own games library, built over the awesome libgdx
 
 https://github.com/pabloalba/dragongames
 
-You can also follow me at twiter: @_pabloalba_
+You can also follow me at twiter: @\_pabloalba\_
 
 
 Special thanks to:
